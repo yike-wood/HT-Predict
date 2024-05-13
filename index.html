@@ -97,12 +97,12 @@
 
     function calculateSum() {
         var input1 = parseFloat(document.getElementById('input1').value);
-        var input1_sc = (input1 - 64.09811320754717) / 78.48224048733397;
+        var input1_sc = (input1 - 64.0981) / 78.4822;
         var input2 = parseFloat(document.getElementById('input2').value);
-        var input2_sc = (input2 - 0.24603773584905667) / 0.2762166200964652;
+        var input2_sc = (input2 - 0.2460) / 0.2762;
         var input3 = parseFloat(document.getElementById('input3').value);
-        var input3_sc = (input3 - 8.086792452830188) / 7.304948897212536;
-        var result = 1 / (1 + Math.exp(-(0.3463 * input1_sc + 0.0888 * input2_sc + 0.0384 * input3_sc)));
+        var input3_sc = (input3 - 8.0868) / 7.3049;
+        var result = 1 / (1 + Math.exp(-(0.3343 * input1_sc + 0.0813 * input2_sc + 0.029 * input3_sc)));
         document.getElementById('output').innerText = result.toFixed(4);
     }
 </script>
