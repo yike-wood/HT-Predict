@@ -1,0 +1,37 @@
+{
+    "examples": [
+        {
+        "id": 807925,
+        "name": "Chen",
+        "gender": "Female",
+        "age": 81,
+        "var0": 12,
+        "var1": 0.2,
+        "var2": 6,
+        "pic0": "./assets/dPic/Chen_Ping_DWI.png",
+        "pic1": "./assets/dPic/Chen_Ping_Tmax.png"
+        },
+        {
+        "id": 789435,
+        "name": "Lv",
+        "gender": "Male",
+        "age": 59,
+        "var0": 226,
+        "var1": 0.5,
+        "var2": 20,
+        "pic0": "./assets/dPic/Lv_Yi_DWI.png",
+        "pic1": "./assets/dPic/Lv_Yi_Tmax.png"
+        },
+        {
+        "id": 770872,
+        "name": "Guo",
+        "gender": "Female",
+        "age": 52,
+        "var0": 88,
+        "var1": 0.4,
+        "var2": 8,
+        "pic0": "./assets/dPic/Guo_Wei_DWI.png",
+        "pic1": "./assets/dPic/Guo_Wei_Tmax.png"
+        }
+    ]
+}
