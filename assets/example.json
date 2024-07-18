@@ -1,0 +1,58 @@
+{
+    "examples": [
+        {
+        "id": 807925,
+        "name": "Chen",
+        "Gender": 0,
+        "Age": 81,
+        "NIHSS": 6,
+        "Hypertension": 1,
+        "Time_from_onset_to_MRI": 2.75,
+        "ADC_620": 6,
+        "Tmax_4s": 36,
+        "Tmax_6s": 12,
+        "Tmax_8s": 5,
+        "Tmax_10s": 3,
+        "practicalRisk": 0.29831563533882444,
+        "refinedRisk": 0.2247,
+        "pic0": "./assets/dPic/Chen_Ping_DWI.png",
+        "pic1": "./assets/dPic/Chen_Ping_Tmax.png"
+        },
+        {
+        "id": 789435,
+        "name": "Lv",
+        "Gender": 1,
+        "Age": 59,
+        "NIHSS": 20,
+        "Hypertension": 1,
+        "Time_from_onset_to_MRI": 7,
+        "ADC_620": 91,
+        "Tmax_4s": 355,
+        "Tmax_6s": 226,
+        "Tmax_8s": 148,
+        "Tmax_10s": 103,
+        "practicalRisk": 0.8859269566386272,
+        "refinedRisk": 0.9143491645251275,
+        "pic0": "./assets/dPic/Lv_Yi_DWI.png",
+        "pic1": "./assets/dPic/Lv_Yi_Tmax.png"
+        },
+        {
+        "id": 770872,
+        "name": "Guo",
+        "Gender": 1,
+        "Age": 52,
+        "NIHSS": 8,
+        "Hypertension": 1,
+        "Time_from_onset_to_MRI": 6,
+        "ADC_620": 634,
+        "Tmax_4s": 167,
+        "Tmax_6s": 88,
+        "Tmax_8s": 56,
+        "Tmax_10s": 32,
+        "practicalRisk": 0.5287718006642818,
+        "refinedRisk": 0.6774,
+        "pic0": "./assets/dPic/Guo_Wei_DWI.png",
+        "pic1": "./assets/dPic/Guo_Wei_Tmax.png"
+        }
+    ]
+}
